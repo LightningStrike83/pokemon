@@ -11,7 +11,7 @@ Contributing
 Singer, Dan
 
 History
-TODO: Write history
+10/26/22- Started; added readme and assets
 
 Credits
 Singer, Dan- Author
